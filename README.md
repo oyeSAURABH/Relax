@@ -1,3 +1,3 @@
 # Relax
-https://oyesaurabh.github.io/Relax/
+[Link](https://oyesaurabh.github.io/Relax/)
 come and relax
